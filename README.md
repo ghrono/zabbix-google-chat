@@ -16,7 +16,7 @@ setep 1:
      INI_FILE = '<path_to_your>/google_chat.ini'
 
 steep 2:
-    edit google_chat.ini
+    edit lines google_chat.ini
    
     enter IP or doman_name your server
      host = http://<your_zabbix_address>/zabbix
